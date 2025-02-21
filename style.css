@@ -627,7 +627,7 @@ body {
   margin-bottom: 40px;
 }
 #cart-table th, #cart-table td {
-  padding: 15px;
+  
   border: 1px solid #ddd;
   text-align: left;
 }
@@ -683,19 +683,11 @@ button[type="submit"]:hover {
   background-color: #0056b3;
 }
 
-/* Footer */
-footer {
-  text-align: center;
-  padding: 15px 0;
-  background-color: #007BFF;
-  color: #fff;
-  margin-top: 40px;
-}
 
 /* Responsive */
 @media (max-width: 768px) {
   main {
-    margin: 50px auto;
+    margin: 20px auto;
     padding: 0 10px;
     width: 100%;
   }
