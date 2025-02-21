@@ -695,7 +695,7 @@ footer {
 /* Responsive */
 @media (max-width: 768px) {
   main {
-    margin: 20px auto;
+    margin: 50px auto;
     padding: 0 10px;
     width: 100%;
   }
